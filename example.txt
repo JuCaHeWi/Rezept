@@ -1,1 +1,2 @@
-Heute habe ich etwas über Git gelernt.
+Git ist super.
+
