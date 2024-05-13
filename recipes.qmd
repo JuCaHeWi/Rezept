@@ -1,1 +1,32 @@
 Hier findest du meine leckeren Rezepte.
+# 
+Input	Output
+
+# Knoblauch-Hühnchen:
+
+**Zutaten:**
+
+4 Hühnerbrustfilets
+4 Knoblauchzehen, gehackt
+1 Zitrone, Saft und abgeriebene Schale
+1 Tasse Hühnerbrühe
+1 Tasse Sahne
+2 Esslöffel Olivenöl
+2 Esslöffel frisch gehackte Petersilie
+Salz und Pfeffer nach Geschmack
+
+*Anleitung:*
+
+*Die Hühnerbrustfilets mit Salz, Pfeffer und Zitronensaft würzen.*
+
+Erhitze das Olivenöl in einer großen Pfanne bei mittlerer Hitze. Brate die Hühnerbrustfilets etwa 5-6 Minuten pro Seite an, bis sie goldbraun sind und durchgegart sind. Entferne sie aus der Pfanne und lege sie beiseite.
+
+In derselben Pfanne den gehackten Knoblauch anbraten, bis er duftet, aber nicht braun wird. Füge die Hühnerbrühe hinzu und rühre gut um, um die Bratrückstände vom Pfannenboden zu lösen.
+
+Die Sahne und die abgeriebene Zitronenschale hinzufügen. Unter ständigem Rühren köcheln lassen, bis die Soße etwas eingedickt ist, etwa 5 Minuten.
+
+Die Hühnerbrustfilets wieder in die Pfanne geben und für weitere 2-3 Minuten in der Soße köcheln lassen, damit sie sich mit dem Geschmack vollsaugen.
+
+Mit frisch gehackter Petersilie bestreuen und heiß servieren.
+
+Dieses cremige Knoblauch-Hühnchen passt wunderbar zu Reis, Nudeln oder geröstetem Gemüse. Guten Appetit!
