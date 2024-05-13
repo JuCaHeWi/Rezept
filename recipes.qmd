@@ -2,6 +2,14 @@ Hier findest du meine leckeren Rezepte.
 # 
 Input	Output
 
+---
+title: "Rezept"
+author: "Julius Wilke"
+theme: vapor
+format: html
+editor: visual
+--- 
+
 # Knoblauch-Hühnchen:
 
 **Zutaten:**
@@ -32,3 +40,4 @@ Mit frisch gehackter Petersilie bestreuen und heiß servieren.
 Dieses cremige Knoblauch-Hühnchen passt wunderbar zu Reis, Nudeln oder geröstetem Gemüse. Guten Appetit!
 
 ![Caption](https://images.lecker.de/schnelles-knoblauch-hahnchen-mit-reis,id=56d4e2ab,b=lecker,w=710,rm=sk.webp)
+
