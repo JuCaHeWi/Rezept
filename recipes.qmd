@@ -9,6 +9,18 @@ theme: vapor
 format: html
 editor: visual
 --- 
+# Chicken Nuggets
+
+** inhalt **
+seperatorenfleisch 
+Sägemehl
+Tierfett
+
+** ZUbereitung **
+Zu Mces gehen, 20er Chicken box holen 
+
+** lecker **´
+
 
 # Knoblauch-Hühnchen:
 
